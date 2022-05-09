@@ -1,0 +1,25 @@
+{
+  "name": "release-it-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/zgc103643/release-it-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zgc103643/release-it-test/issues"
+  },
+  "homepage": "https://github.com/zgc103643/release-it-test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "release-it": "^15.0.0"
+  }
+}
